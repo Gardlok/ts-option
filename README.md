@@ -39,6 +39,6 @@ Represents an absence of a value.
 
 `Optional`
 Abstract class providing static methods for creating and working with Option types.
-Contributing
+
 
 ### Contributions and/or feedback are welcome! 
